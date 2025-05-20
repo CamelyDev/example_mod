@@ -1,1 +1,2 @@
-contains example blocks with different properties to get started with modding
+# Futuralia Example Mod
+this is a cool example mod with a few example things to get started!
