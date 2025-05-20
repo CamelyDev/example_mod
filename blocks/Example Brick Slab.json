@@ -1,0 +1,8 @@
+{
+   "mod_id":"example_mod",
+   "name":"Example Brick Slab",
+   "resistance":2,
+   "material":"rock",
+   "blocktype":"PLACEABLE-SLAB",
+   "image_frames": 4
+}

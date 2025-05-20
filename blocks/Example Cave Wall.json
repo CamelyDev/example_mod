@@ -1,0 +1,10 @@
+{
+   "mod_id":"example_mod",
+   "name":"Example Cave Wall",
+   "resistance":2.2,
+   "material":"rock",
+   "blocktype":"NATURAL-PASSABLE",
+   "base_chance":20,
+   "harvest_level":0,
+   "xp_amount":1
+}

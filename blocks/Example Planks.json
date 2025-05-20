@@ -1,0 +1,7 @@
+{
+   "mod_id":"example_mod",
+   "name":"Example Planks",
+   "resistance":2,
+   "material":"solid",
+   "blocktype":"PLACEABLE-SOLID"
+}

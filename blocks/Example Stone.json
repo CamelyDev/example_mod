@@ -1,0 +1,10 @@
+{
+   "mod_id":"example_mod",
+   "name":"Example Stone",
+   "resistance":1.5,
+   "material":"rock",
+   "blocktype":"NATURAL-SOLID",
+   "base_chance":50,
+   "harvest_level":0,
+   "xp_amount":2
+}

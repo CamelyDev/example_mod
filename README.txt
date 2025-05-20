@@ -1,0 +1,1 @@
+contains example blocks with different properties to get started with modding
