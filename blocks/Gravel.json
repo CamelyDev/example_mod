@@ -1,0 +1,9 @@
+{
+	"mod_id":"example_mod",
+	"name":"Gravel",
+	"resistance":2.1,
+	"blocktype":"NATURAL-SOLID",
+	"material":"plant",
+	"xp_amount":2,
+	"base_chance":20
+}

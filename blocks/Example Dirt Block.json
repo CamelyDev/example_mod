@@ -1,9 +1,0 @@
-{
-	"mod_id":"example_mod",
-	"name":"Example Dirt Block",
-	"resistance":2,
-	"blocktype":"NATURAL-SOLID",
-	"material":"plant",
-	"xp_amount":1,
-	"base_chance":10
-}

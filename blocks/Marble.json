@@ -1,0 +1,10 @@
+{
+   "mod_id":"example_mod",
+   "name":"Marble",
+   "resistance":2.3,
+   "material":"rock",
+   "blocktype":"NATURAL-SOLID",
+   "base_chance":3,
+   "harvest_level":2,
+   "xp_amount":4
+}

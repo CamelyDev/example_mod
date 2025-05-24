@@ -1,0 +1,10 @@
+{
+   "mod_id":"example_mod",
+   "name":"Egg Stone",
+   "resistance":0.97,
+   "material":"ore",
+   "blocktype":"NATURAL-SOLID",
+   "base_chance":7,
+   "harvest_level":7,
+   "xp_amount":96
+}

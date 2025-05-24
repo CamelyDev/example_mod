@@ -1,0 +1,21 @@
+let chance = RandomChance(20)
+let direction = RandomInt(3)
+
+let _x = GetPosition().x
+let _y = GetPosition().y
+
+if chance {
+  if direction == 0 {
+    DestroyBlock(_x + 1, _y)
+    SpawnBlock("Marble", _x + 1, _y)
+  } else if direction == 1 {
+    DestroyBlock(_x, _y - 1)
+    SpawnBlock("Marble", _x, _y - 1)
+  } else if direction == 2 {
+    DestroyBlock(_x - 1, _y)
+    SpawnBlock("Marble", _x - 1, _y)
+  } else if direction == 3 {
+    DestroyBlock(_x, _y + 1)
+    SpawnBlock("Marble", _x, _y + 1)
+  }
+}
